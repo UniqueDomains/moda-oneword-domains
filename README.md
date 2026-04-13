@@ -72,13 +72,13 @@ print(df.head())
 | business.moda | premium   | $128.70   | $128.70       | 100            | 53     | 8      | namecheap                      |
 | music.moda    | available | $19.99    | —             | 84             | 54     | 5      | name.com                       |
 | book.moda     | resell    | —         | —             | 82             | 55     | 4      | Porkbun LLC                    |
-| design.moda   | premium   | $1,000    | $1,000        | 108            | 50     | 6      | name.com                       |
-| fast.moda     | available | $19.99    | $52.99        | 82             | 53     | 4      | name.com                       |
-| art.moda      | resell    | —         | —             | 90             | 52     | 3      | GoDaddy.com, LLC               |
 | abc.moda      | premium   | $1,040    | $1,040        | 102            | 50     | 3      | namecheap                      |
 | true.moda     | available | $19.99    | $52.99        | 86             | 52     | 4      | name.com                       |
-| digital.moda  | resell    | —         | —             | 100            | 50     | 7      | NameCheap, Inc.                |
+| art.moda      | resell    | —         | —             | 90             | 52     | 3      | GoDaddy.com, LLC               |
 | life.moda     | premium   | $128.70   | $128.70       | 84             | 50     | 4      | namecheap                      |
+| fast.moda     | available | $19.99    | $52.99        | 82             | 52     | 4      | name.com                       |
+| digital.moda  | resell    | —         | —             | 100            | 49     | 7      | NameCheap, Inc.                |
+| design.moda   | premium   | $1,000    | $1,000        | 108            | 49     | 6      | name.com                       |
 | real.moda     | available | $45.98    | —             | 78             | 49     | 4      | namecheap                      |
 | gold.moda     | resell    | —         | —             | 72             | 48     | 4      | GoDaddy.com, LLC               |
 | all.moda      | premium   | $123.75   | $123.75       | 88             | 48     | 3      | name.com                       |
