@@ -1,10 +1,10 @@
-# Available .MODA One-Word Domains (12,703)
+# Available .MODA One-Word Domains (12,704)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C703%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C704%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .moda one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,703 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,704 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,703 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,704 domains · **Median ask:** $26.08 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/moda`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| Ryan.moda          | available | $45.98    | —             | 60             | 44     | 4      | namecheap |
-| jobs.moda          | premium   | $123.75   | —             | 79             | 42     | 4      | name.com  |
-| shortcuts.moda     | available | $19.99    | —             | 48             | 41     | 10     | name.com  |
-| trends.moda        | premium   | $123.75   | —             | 60             | 32     | 6      | name.com  |
-| prompts.moda       | available | $19.99    | —             | 54             | 39     | 7      | name.com  |
-| tips.moda          | premium   | $123.75   | —             | 80             | 26     | 4      | name.com  |
-| justin.moda        | available | $19.99    | —             | 58             | 38     | 7      | name.com  |
-| designs.moda       | premium   | $1,000    | —             | 72             | 21     | 7      | name.com  |
-| WiFi.moda          | available | $45.98    | —             | 83             | 37     | 5      | namecheap |
-| watches.moda       | premium   | $123.75   | —             | 84             | 19     | 7      | name.com  |
-| neuroscience.moda  | available | $19.99    | —             | 80             | 37     | 12     | name.com  |
-| nails.moda         | premium   | $123.75   | —             | 62             | 18     | 5      | name.com  |
-| Cats.moda          | available | $45.98    | —             | 59             | 33     | 4      | namecheap |
-| coats.moda         | premium   | $123.75   | —             | 68             | 12     | 5      | name.com  |
-| inspiration.moda   | available | $19.99    | —             | 88             | 30     | 11     | name.com  |
-| dresses.moda       | premium   | $1,000    | —             | 58             | 10     | 7      | name.com  |
-| rewards.moda       | available | $19.99    | —             | 62             | 30     | 7      | name.com  |
-| photographers.moda | premium   | $118.80   | $118.80       | 47             | 10     | 13     | namesilo  |
-| spaces.moda        | available | $19.99    | —             | 54             | 30     | 6      | name.com  |
-| universities.moda  | premium   | $123.75   | —             | 54             | 9      | 12     | name.com  |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| WiFi.moda         | available | $45.98    | —             | 83             | 37     | 5      | namecheap |
+| dogsit.moda       | available | $19.99    | —             | 96             | 2      | 6      | name.com  |
+| makeit.moda       | available | $19.99    | —             | 82             | 22     | 7      | name.com  |
+| messages.moda     | available | $19.99    | —             | 80             | 16     | 8      | name.com  |
+| presents.moda     | available | $19.99    | —             | 80             | 9      | 8      | name.com  |
+| Ryan.moda         | available | $45.98    | —             | 60             | 44     | 4      | namecheap |
+| jobs.moda         | premium   | $123.75   | —             | 79             | 42     | 4      | name.com  |
+| shortcuts.moda    | available | $19.99    | —             | 48             | 41     | 10     | name.com  |
+| trends.moda       | premium   | $123.75   | —             | 60             | 32     | 6      | name.com  |
+| prompts.moda      | available | $19.99    | —             | 54             | 39     | 7      | name.com  |
+| tips.moda         | premium   | $123.75   | —             | 80             | 26     | 4      | name.com  |
+| justin.moda       | available | $19.99    | —             | 58             | 38     | 7      | name.com  |
+| designs.moda      | premium   | $1,000    | —             | 72             | 21     | 7      | name.com  |
+| watches.moda      | premium   | $123.75   | —             | 84             | 19     | 7      | name.com  |
+| neuroscience.moda | available | $19.99    | —             | 80             | 37     | 12     | name.com  |
+| nails.moda        | premium   | $123.75   | —             | 62             | 18     | 5      | name.com  |
+| Cats.moda         | available | $45.98    | —             | 59             | 33     | 4      | namecheap |
+| coats.moda        | premium   | $123.75   | —             | 68             | 12     | 5      | name.com  |
+| inspiration.moda  | available | $19.99    | —             | 88             | 30     | 11     | name.com  |
+| dresses.moda      | premium   | $1,000    | —             | 58             | 10     | 7      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,703 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 12,704 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is entirely made up of one-word .moda domains. That makes relevance the first filter: the best candidates are words that immediately make sense in fashion, beauty, accessories, or style-led retail. Examples such as jewels.moda, ladies.moda, and getup.moda are more intuitive than broader terms like forces.moda or finals.moda. The median ask is 26.08, so price is generally accessible, but extension fit matters more than headline cost. When comparing these domains, focus on whether the word is easy to read, category-specific, and strong enough to offset the narrower recognition of .moda outside fashion contexts.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Best fit: fashion, beauty, apparel, jewelry, style retail
+- Median ask is 26.08 across 12,704 .moda domains
+- Clear category words tend to feel more brandable here
+- Check trademark overlap before choosing generic-looking terms
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MODA One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MODA One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
