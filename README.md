@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .moda one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,703 domains · **Median ask:** $26.08 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/moda`  
 **Best for:** founders, investors, studios
 
@@ -66,7 +66,7 @@ print(df.head())
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
 | WiFi.moda         | available | $45.98    | —             | 83             | 37     | 5      | namecheap |
 | dogsit.moda       | available | $19.99    | —             | 96             | 2      | 6      | name.com  |
-| makeit.moda       | available | $19.99    | —             | 82             | 22     | 7      | name.com  |
+| makeit.moda       | available | $19.99    | —             | 82             | 21     | 7      | name.com  |
 | messages.moda     | available | $19.99    | —             | 80             | 16     | 8      | name.com  |
 | presents.moda     | available | $19.99    | —             | 80             | 9      | 8      | name.com  |
 | Ryan.moda         | available | $45.98    | —             | 60             | 44     | 4      | namecheap |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MODA One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MODA One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
