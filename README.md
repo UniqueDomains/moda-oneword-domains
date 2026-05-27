@@ -79,10 +79,10 @@ print(df.head())
 | designs.moda      | premium   | $1,000    | —             | 72             | 21     | 7      | name.com  |
 | watches.moda      | premium   | $123.75   | —             | 84             | 19     | 7      | name.com  |
 | neuroscience.moda | available | $19.99    | —             | 80             | 37     | 12     | name.com  |
-| nails.moda        | premium   | $123.75   | —             | 62             | 18     | 5      | name.com  |
+| nails.moda        | premium   | $123.75   | —             | 62             | 17     | 5      | name.com  |
 | Cats.moda         | available | $45.98    | —             | 59             | 33     | 4      | namecheap |
 | coats.moda        | premium   | $123.75   | —             | 68             | 12     | 5      | name.com  |
-| inspiration.moda  | available | $19.99    | —             | 88             | 30     | 11     | name.com  |
+| rewards.moda      | available | $19.99    | —             | 62             | 30     | 7      | name.com  |
 | dresses.moda      | premium   | $1,000    | —             | 58             | 10     | 7      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
