@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .moda one-word domains from
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,703 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,703 domains · **Median ask:** $26.08 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,703 domains · **Median ask:** $28.12 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/moda`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/moda`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .MODA one-word domain 
 
 ### Files
 
-- `moda.csv` — public CSV extract (1,000 rows)
-- `moda.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `moda.csv`, public CSV extract (1,000 rows)
+- `moda.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| WiFi.moda         | available | $45.98    | —             | 83             | 37     | 5      | namecheap |
-| dogsit.moda       | available | $19.99    | —             | 96             | 2      | 6      | name.com  |
-| makeit.moda       | available | $19.99    | —             | 82             | 21     | 7      | name.com  |
-| messages.moda     | available | $19.99    | —             | 80             | 16     | 8      | name.com  |
-| presents.moda     | available | $19.99    | —             | 80             | 9      | 8      | name.com  |
-| Ryan.moda         | available | $45.98    | —             | 60             | 44     | 4      | namecheap |
-| jobs.moda         | premium   | $123.75   | —             | 79             | 42     | 4      | name.com  |
-| shortcuts.moda    | available | $19.99    | —             | 48             | 41     | 10     | name.com  |
-| trends.moda       | premium   | $123.75   | —             | 60             | 32     | 6      | name.com  |
-| prompts.moda      | available | $19.99    | —             | 54             | 39     | 7      | name.com  |
-| tips.moda         | premium   | $123.75   | —             | 80             | 26     | 4      | name.com  |
-| justin.moda       | available | $19.99    | —             | 58             | 38     | 7      | name.com  |
-| designs.moda      | premium   | $1,000    | —             | 72             | 21     | 7      | name.com  |
-| watches.moda      | premium   | $123.75   | —             | 84             | 19     | 7      | name.com  |
-| neuroscience.moda | available | $19.99    | —             | 80             | 37     | 12     | name.com  |
-| nails.moda        | premium   | $123.75   | —             | 62             | 17     | 5      | name.com  |
-| Cats.moda         | available | $45.98    | —             | 59             | 33     | 4      | namecheap |
-| coats.moda        | premium   | $123.75   | —             | 68             | 12     | 5      | name.com  |
-| rewards.moda      | available | $19.99    | —             | 62             | 30     | 7      | name.com  |
-| dresses.moda      | premium   | $1,000    | —             | 58             | 10     | 7      | name.com  |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| ago.moda      | available | $19.99    | $52.99        | medium         | low    | 3      | name.com        |
+| only.moda     | resell    | —         | —             | high           | medium | 4      | Dynadot Inc     |
+| bag.moda      | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo        |
+| ask.moda      | available | $19.99    | —             | high           | medium | 3      | name.com        |
+| house.moda    | resell    | —         | —             | high           | low    | 5      | Dynadot Inc     |
+| hat.moda      | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo        |
+| Ava.moda      | available | $19.99    | —             | high           | medium | 3      | name.com        |
+| digital.moda  | resell    | —         | —             | high           | medium | 7      | NameCheap, Inc. |
+| lp.moda       | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo        |
+| bob.moda      | available | $19.99    | —             | high           | medium | 3      | name.com        |
+| baseball.moda | resell    | —         | —             | high           | low    | 8      | NameSilo, LLC   |
+| men.moda      | premium   | $123.75   | —             | high           | low    | 3      | name.com        |
+| bud.moda      | available | $19.99    | —             | high           | low    | 3      | name.com        |
+| red.moda      | premium   | $854      | $854          | high           | medium | 3      | namesilo        |
+| bus.moda      | available | $19.99    | —             | high           | low    | 3      | name.com        |
+| wig.moda      | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo        |
+| but.moda      | available | $19.99    | —             | high           | low    | 3      | name.com        |
+| mint.moda     | premium   | $118.80   | $118.80       | high           | high   | 4      | namesilo        |
+| bye.moda      | available | $19.99    | —             | high           | low    | 3      | name.com        |
+| navy.moda     | premium   | $123.75   | —             | high           | low    | 4      | name.com        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .moda domains. That makes relevance the first filter: the best candidates are words that immediately make sense in fashion, beauty, accessories, or style-led retail. Examples such as jewels.moda, ladies.moda, and getup.moda are more intuitive than broader terms like forces.moda or finals.moda. The median ask is 26.08, so price is generally accessible, but extension fit matters more than headline cost. When comparing these domains, focus on whether the word is easy to read, category-specific, and strong enough to offset the narrower recognition of .moda outside fashion contexts.
+This list covers one-word domain names registered under the .moda extension, a TLD often associated with fashion, design, and lifestyle branding. Names like jewels.moda, thanksgiving.moda, and neuroscience.moda show the range of vocabulary available in single-word form. With a median ask near $28, these domains sit at an accessible price point for comparing cost, renewal, and brandability before committing to a name. Updated daily, the selection spans everyday words, seasonal terms, and niche vocabulary suited to distinct positioning.
 
-- Best fit: fashion, beauty, apparel, jewelry, style retail
-- Median ask is 26.08 across 12,704 .moda domains
-- Clear category words tend to feel more brandable here
-- Check trademark overlap before choosing generic-looking terms
+- 12,703 one-word .moda domain names in this selection
+- Median ask near $28 across sampled listings
+- Includes everyday words, seasonal terms, and niche vocabulary
+- Updated daily to reflect current .moda availability and pricing
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MODA One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MODA One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
