@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .moda one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 27,657 domains · **Median ask:** $30.52 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/tld/moda`
 **Best for:** founders, investors, studios
 
@@ -64,7 +64,6 @@ print(df.head())
 
 | domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| mirror.moda   | available | $19.99    | —             | high           | low    | 6      | name.com        |
 | ago.moda      | available | $19.99    | $52.99        | medium         | low    | 3      | name.com        |
 | only.moda     | resell    | —         | —             | high           | medium | 4      | Dynadot Inc     |
 | bag.moda      | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo        |
@@ -72,9 +71,9 @@ print(df.head())
 | house.moda    | resell    | —         | —             | high           | low    | 5      | Dynadot Inc     |
 | hat.moda      | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo        |
 | ask.moda      | available | $19.99    | —             | high           | medium | 3      | name.com        |
-| digital.moda  | resell    | —         | —             | medium         | medium | 7      | NameCheap, Inc. |
+| digital.moda  | resell    | —         | —             | medium         | low    | 7      | NameCheap, Inc. |
 | lp.moda       | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo        |
-| Ava.moda      | available | $19.99    | —             | high           | medium | 3      | name.com        |
+| ava.moda      | available | $19.99    | —             | high           | medium | 3      | name.com        |
 | baseball.moda | resell    | —         | —             | high           | low    | 8      | NameSilo, LLC   |
 | men.moda      | premium   | $123.75   | —             | high           | low    | 3      | name.com        |
 | azo.moda      | available | $19.99    | $52.99        | low            | low    | 3      | name.com        |
@@ -84,6 +83,7 @@ print(df.head())
 | bud.moda      | available | $19.99    | —             | high           | low    | 3      | name.com        |
 | mint.moda     | premium   | $118.80   | $118.80       | high           | high   | 4      | namesilo        |
 | bus.moda      | available | $19.99    | —             | high           | low    | 3      | name.com        |
+| navy.moda     | premium   | $123.75   | —             | high           | low    | 4      | name.com        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MODA One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MODA One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
