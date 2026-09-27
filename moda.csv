@@ -61,6 +61,7 @@ caee5f7d-d8d9-4f0e-b191-7cbdb594bd30,bahai.moda,available,19.99,52.99,high,low,5
 2b1e3b21-aa3c-47eb-beba-4e3642fd0670,chemical.moda,available,41.99,41.99,high,low,8,namesilo,,,08/09/2026 15:30
 7f627e81-22ca-4e83-ac4f-9f9f60ce0874,diatomic.moda,available,19.99,52.99,medium,low,8,name.com,,,14/08/2026 06:19
 387bfaee-0067-436d-b7e9-649da992ddce,rambling.moda,available,19.99,52.99,high,low,8,name.com,,,17/08/2026 16:41
+b5ab5e07-8f15-40c6-8f2f-b8b6d177dcfd,xml.moda,available,41.99,41.99,medium,low,3,namesilo,,,27/09/2026 02:25
 64fafe6e-639f-4434-98b8-09e3def8817e,spatter.moda,available,43.98,45.98,medium,low,7,namecheap,,,15/09/2026 20:19
 e3d0bb63-dc92-4bc9-b22e-713f12377126,adviseable.moda,available,19.99,,high,low,10,name.com,,,
 e9edfc5f-5e38-4734-af57-4b8a8b7e300f,whiff.moda,available,41.99,41.99,high,low,5,namesilo,,,09/09/2026 05:39
@@ -70,7 +71,7 @@ cdb49f9a-39e9-49a9-937a-5b888edd2d10,hathaway.moda,available,41.99,41.99,high,lo
 d39280a6-a724-4c5c-8d80-369eed806d8a,upward.moda,available,19.99,,high,low,6,name.com,,,
 8b5c0987-5571-4d90-b411-1899f8b6fc1e,savior.moda,available,41.99,41.99,high,low,6,namesilo,,,24/09/2026 14:49
 acb770a2-600d-44e6-a836-2168add262f7,latish.moda,available,19.99,52.99,medium,low,6,name.com,,,22/08/2026 20:43
-b0e6f796-7f51-4089-927c-e6e52d2586f9,popular.moda,available,19.99,,high,low,7,name.com,,,
+b0e6f796-7f51-4089-927c-e6e52d2586f9,popular.moda,available,41.99,41.99,high,low,7,namesilo,,,27/09/2026 04:30
 20c5c666-7861-449d-aa6e-5af07c4a2c59,indecisive.moda,available,19.99,52.99,medium,low,10,name.com,,,22/08/2026 02:27
 33993d73-9d3e-4cf3-a320-eddcca231769,nominee.moda,available,19.99,,high,low,7,name.com,,,
 d926d40b-514f-4df3-a26a-3f9ff795883a,steeply.moda,available,41.99,41.99,medium,low,7,namesilo,,,16/09/2026 06:59
@@ -91,6 +92,8 @@ d3017361-1002-4ab6-a7c4-3fdd88e9a631,uncoated.moda,available,19.99,52.99,medium,
 ac1b5117-bc26-46c9-af5c-604a8dc66ad7,person.moda,available,43.98,45.98,high,low,6,namecheap,,,25/09/2026 09:11
 5a110c9a-cfcf-449d-82f1-11dc8347fa93,pansy.moda,available,41.99,41.99,medium,low,5,namesilo,,,09/09/2026 08:07
 0ac46203-78de-4ac1-9ab4-b36bd487803a,fastest.moda,available,43.98,45.98,high,low,7,namecheap,,,14/09/2026 17:49
+4c9308e0-84c6-4951-8446-a5fd80b3cdac,switched.moda,available,43.98,45.98,medium,low,8,namecheap,,,27/09/2026 09:43
+a0253936-1b35-4e2c-9937-c386213f25e3,approximately.moda,available,43.98,45.98,medium,low,13,namecheap,,,27/09/2026 08:28
 a4025846-cf5d-43ce-93a7-d09302dad835,arachnid.moda,available,43.98,45.98,medium,low,8,namecheap,,,19/09/2026 23:40
 7397656c-9880-4a8f-a108-2a047b5f3833,obnubilate.moda,available,41.99,41.99,medium,low,10,namesilo,,,03/09/2026 23:55
 4dd74a17-876d-41a6-823e-52e77a435d7f,sneaker.moda,available,19.99,52.99,high,low,7,name.com,,,11/08/2026 16:16
@@ -104,7 +107,6 @@ abd1a439-4545-4aa1-b623-0ecc8a1397e6,achondrite.moda,available,41.99,41.99,mediu
 79bf977f-bbbc-4132-bb8f-5eea486ce670,martian.moda,available,19.99,52.99,high,low,7,name.com,,,24/08/2026 16:37
 e03c346f-9a2c-475d-bb9e-a1edbb5c6cd4,weakness.moda,available,19.99,52.99,high,low,8,name.com,,,17/08/2026 20:45
 8df3a8a1-114c-47f5-ad17-93d251844daf,bemidji.moda,available,41.99,41.99,medium,low,7,namesilo,,,23/09/2026 07:16
-989c8a61-d018-48ba-9a0a-709340a0384b,canada.moda,available,,,high,high,6,,,,
 91fde28f-ece3-4c8a-9a3b-3e9c8f06b17d,histrionic.moda,available,19.99,52.99,medium,low,10,name.com,,,21/08/2026 09:57
 30bff9ad-26ae-47a1-bee8-62b8a58eb79f,equine.moda,available,19.99,52.99,high,low,6,name.com,,,17/08/2026 11:45
 dbaa9e00-4110-4fd8-99c6-1c3a08cf1285,encomium.moda,available,41.99,41.99,high,low,8,namesilo,,,05/09/2026 00:40
@@ -140,6 +142,7 @@ b34796cf-f056-4d08-92c5-4ee1dcea601e,gate.moda,available,19.99,,high,low,4,name.
 f4f8e4b7-b9a1-447f-8978-a60119dd2168,liquor.moda,available,19.99,,high,low,6,name.com,,,
 a646e030-fa95-486f-912d-8d2538717fda,changes.moda,available,19.99,,medium,low,7,name.com,,,
 8189032b-2c7d-4b8b-89ad-d6b9c551e0ad,gifted.moda,available,19.99,52.99,high,low,6,name.com,,,18/08/2026 23:27
+6a18cd79-869d-438f-bc22-72d4739406ce,discussed.moda,available,41.99,41.99,medium,low,9,namesilo,,,27/09/2026 10:04
 a0b5e936-c6eb-4cfd-8108-c87020d3f05a,bangkok.moda,premium,854,854,high,low,7,namesilo,,,22/09/2026 01:48
 57e58c56-988b-4210-846f-78eb59bc9865,same.moda,available,19.99,,high,low,4,name.com,,,
 100778dc-53d8-4e9f-93cb-4c565f083c7a,cutaneal.moda,available,19.99,52.99,medium,low,8,name.com,,,13/08/2026 12:57
@@ -149,7 +152,7 @@ c9b9380e-47ad-4e34-9d42-86509ccdaad7,blether.moda,available,41.99,41.99,medium,l
 20732c5a-5a2a-4a6c-b64b-239a0c5c1bf5,anomala.moda,available,41.99,41.99,medium,low,7,namesilo,,,19/09/2026 11:24
 0ceb51ed-ae68-44f0-bb1b-15bc2383057e,fifteenth.moda,available,19.99,52.99,high,low,9,name.com,,,
 7ca57043-7fff-4cf7-aaa8-867720e3d373,abseil.moda,available,41.99,41.99,medium,low,6,namesilo,,,16/09/2026 17:39
-7c155c10-6dd7-4def-9b4e-43e4f6fe1789,android.moda,available,,,high,high,7,,,,
+ddd674a0-2cee-4c25-8534-b23c4c5dcfdc,sidney.moda,available,41.99,41.99,high,low,6,namesilo,,,27/09/2026 05:44
 d02a9613-bdde-4057-99cc-5114a8853a5a,although.moda,available,19.99,,medium,low,8,name.com,,,
 5ab66657-7d7f-4877-a847-c3828b38bf00,erudite.moda,available,19.99,52.99,high,low,7,name.com,,,17/08/2026 13:10
 eabe845e-291e-45bf-a3a0-a8ddd7fb3f89,allayer.moda,available,41.99,41.99,medium,low,7,namesilo,,,18/09/2026 09:59
@@ -161,12 +164,13 @@ eabe845e-291e-45bf-a3a0-a8ddd7fb3f89,allayer.moda,available,41.99,41.99,medium,l
 53c76920-a963-4d80-8213-7b274dcaf816,domain.moda,premium,1040,1040,high,medium,6,namecheap,,,25/09/2026 14:42
 d66e3fd3-ad03-4caf-99cc-86e9ccbf79c7,prole.moda,available,41.99,41.99,medium,low,5,namesilo,,,09/09/2026 03:01
 22127cb9-983e-4845-94b9-d301184d8d0a,cocks.moda,available,41.99,41.99,medium,low,5,namesilo,,,18/09/2026 23:39
+85765d16-6d84-4cf2-9fe4-e2ebfab64e5b,ranger.moda,available,43.98,45.98,high,low,6,namecheap,,,27/09/2026 03:34
 dbde0665-7c0e-410e-9f05-d54db5801ae7,alcoves.moda,available,41.99,41.99,medium,low,7,namesilo,,,20/09/2026 22:35
 4cda468e-bc95-4c96-b4c9-10b1007bddba,amine.moda,available,43.98,45.98,high,low,5,namecheap,,,18/09/2026 21:41
 cb335c99-eba0-43e9-9b54-b78ccd7ffdea,relative.moda,available,19.99,52.99,high,low,8,name.com,,,12/08/2026 21:33
 84ab8b89-020f-4374-832e-494df9b90943,unreserved.moda,available,43.98,45.98,medium,low,10,namecheap,,,12/09/2026 18:21
 0aa36740-b649-4486-9ec3-569a4e647e6a,barany.moda,available,41.99,41.99,medium,low,6,namesilo,,,22/09/2026 04:13
-3844dd96-ae1f-45d8-ad1c-ad8121117d65,punch.moda,available,19.99,,high,low,5,name.com,,,
+3844dd96-ae1f-45d8-ad1c-ad8121117d65,punch.moda,available,43.98,45.98,high,low,5,namecheap,,,27/09/2026 03:37
 91df6e75-e067-4536-a52e-d594adc5779c,bruising.moda,available,19.99,52.99,medium,low,8,name.com,,,11/08/2026 06:34
 cdd837be-6d57-4a27-8665-b6c3ce66c0d1,chargeman.moda,available,41.99,41.99,medium,low,9,namesilo,,,24/09/2026 04:25
 b51e298c-b242-49e8-b24d-960662e834ae,benton.moda,available,41.99,41.99,high,low,6,namesilo,,,25/09/2026 17:00
@@ -218,7 +222,7 @@ edeadfe8-3690-44c0-ace9-306c548ee4ff,abe.moda,available,41.99,41.99,high,low,3,n
 5beedf2a-d849-4376-9c9e-4f6bec090ead,hardware.moda,available,41.99,41.99,high,low,8,namesilo,,,24/09/2026 16:57
 27883f35-e449-4add-8220-f47cd1ea1828,castled.moda,available,19.99,52.99,medium,low,7,name.com,,,11/08/2026 20:28
 d36202b3-c456-41ef-998d-b9782d370d93,loaf.moda,available,41.99,41.99,high,low,4,namesilo,,,11/09/2026 08:31
-4557a263-645f-40a5-b313-142e0a90013e,pen.moda,available,19.99,,high,low,3,name.com,,,
+4557a263-645f-40a5-b313-142e0a90013e,pen.moda,available,41.99,41.99,high,low,3,namesilo,,,27/09/2026 03:22
 b9d8d7b0-36ea-43db-8a44-f715779aaba6,woody.moda,available,19.99,52.99,high,low,5,name.com,,,06/08/2026 13:08
 51cc3a88-906d-4aed-9b1a-4a9fa332cf41,expressive.moda,available,19.99,52.99,high,low,10,name.com,,,17/08/2026 18:50
 d20b9481-54b9-4d23-967c-3fd0eebdd236,burbling.moda,available,19.99,52.99,medium,low,8,name.com,,,11/08/2026 10:10
@@ -242,6 +246,7 @@ e8f615d1-4b66-4e24-ab77-81d9a929eb0b,fact.moda,available,19.99,,high,low,4,name.
 8e9827ed-baa4-45bc-9c38-d27ba2c89581,onymous.moda,available,41.99,41.99,medium,low,7,namesilo,,,04/09/2026 15:26
 8d35231b-34e7-4f04-ac0b-847005336519,bogus.moda,available,19.99,52.99,medium,low,5,name.com,,,08/08/2026 22:58
 d3fb7da3-27be-488d-b605-145a3d021914,doctorfish.moda,available,43.98,45.98,medium,low,10,namecheap,,,16/09/2026 20:58
+ae36033d-f55a-4a95-b096-ba0cb42ece56,dumped.moda,available,41.99,41.99,low,low,6,namesilo,,,27/09/2026 03:17
 4587f799-a641-46a4-8609-1aa2c839d741,page.moda,available,19.99,,high,low,4,name.com,,,
 a86024bf-f62e-4456-a5fc-832d69f86e1b,pianos.moda,available,43.98,45.98,medium,low,6,namecheap,,,20/09/2026 09:12
 50cfb3e0-3e48-4459-ae03-77288cc377ec,godlike.moda,available,19.99,52.99,high,low,7,name.com,,,20/08/2026 16:06
@@ -268,12 +273,13 @@ df4ab6f2-b2b4-49eb-84fc-1a6e228ccb72,biome.moda,available,43.98,45.98,high,low,5
 18816e33-d233-4d9f-87a9-b9bc84e93df6,monatomic.moda,available,19.99,52.99,medium,low,9,name.com,,,25/08/2026 04:12
 29ec445b-06f0-4db7-95f9-d96316cb3c3f,sexton.moda,available,41.99,41.99,medium,low,6,namesilo,,,19/09/2026 10:22
 7105ff43-5ebc-4da1-bc4d-1339abc40452,cumulate.moda,available,19.99,52.99,high,low,8,name.com,,,12/08/2026 21:52
-d9df1fb6-6247-4799-af56-1f0e3b979a83,prolific.moda,available,19.99,,high,low,8,name.com,,,
+d9df1fb6-6247-4799-af56-1f0e3b979a83,prolific.moda,available,41.99,41.99,high,low,8,namesilo,,,27/09/2026 07:21
 e100aeac-b039-4ca1-bdac-477b253c3555,clientele.moda,available,43.98,45.98,high,low,9,namecheap,,,24/09/2026 15:37
+b770f0a0-3478-4649-8633-9335a2516e5d,kathryn.moda,available,41.99,41.99,high,low,7,namesilo,,,27/09/2026 07:34
 1c7a0859-70e3-4a9b-8d5b-e274f10a5d8f,backlash.moda,available,41.99,41.99,high,low,8,namesilo,,,21/09/2026 15:29
 77833e80-50bd-4b34-ab2f-c236ecec5526,barrelfish.moda,available,43.98,45.98,medium,low,10,namecheap,,,22/09/2026 08:20
 b7823cd0-19be-46d7-a8ef-7e00d0567254,continually.moda,available,19.99,,medium,low,11,name.com,,,
-38b1f297-1992-4b1d-b067-8b3ac28c73ec,demo.moda,available,19.99,,high,medium,4,name.com,,,
+38b1f297-1992-4b1d-b067-8b3ac28c73ec,demo.moda,available,41.99,41.99,high,medium,4,namesilo,,,27/09/2026 05:08
 9fa60244-38fc-4709-90da-72cbb2f0960f,rostrum.moda,available,41.99,41.99,high,low,7,namesilo,,,18/09/2026 17:15
 d1495de7-7c17-4b1c-8648-8873bf931a05,bestiary.moda,available,41.99,41.99,high,low,8,namesilo,,,23/09/2026 10:36
 a9bd2997-1218-43c5-b2a5-b039f3ee0f9e,masterful.moda,available,43.98,45.98,high,low,9,namecheap,,,23/09/2026 21:35
@@ -324,14 +330,17 @@ c786858e-8a19-4cee-891b-d3e402fbd3fa,diseases.moda,available,43.98,45.98,low,low
 d742ab6d-3707-4b84-826d-ed72c70b5fe7,targets.moda,available,43.98,45.98,medium,low,7,namecheap,,,18/09/2026 15:18
 8d20918c-257b-42c2-b143-9fcdcc3a548a,palpebrate.moda,available,41.99,41.99,medium,low,10,namesilo,,,05/09/2026 00:15
 827f60dd-5675-4e72-a109-d83b92e46459,inverted.moda,available,19.99,52.99,high,low,8,name.com,,,
+cef4a244-24f6-4b44-ace7-0863ce63601b,ashes.moda,available,41.99,41.99,medium,low,5,namesilo,,,27/09/2026 09:10
 f225b6c6-acb4-4287-a20e-6c5e85f47142,headteacher.moda,available,19.99,,high,low,12,name.com,,,
 c271510a-3289-4aee-900f-4f801898b3eb,email.moda,premium,854,854,high,medium,6,namesilo,,,
 69a9f414-ff94-41e1-b85e-42d1c643cfc8,passports.moda,available,41.99,41.99,medium,low,9,namesilo,,,20/09/2026 09:52
 db27d40e-c9af-4663-8b7f-29335b2a8679,procurement.moda,available,41.99,41.99,high,low,11,namesilo,,,23/09/2026 02:56
 3b8a2f2d-1cb2-44cf-8f30-6a27f5ac9f11,vaned.moda,available,41.99,41.99,medium,low,5,namesilo,,,13/09/2026 01:06
 0e3f5c5e-7591-454a-a570-aa734c8b79e1,bauhaus.moda,available,41.99,41.99,high,low,7,namesilo,,,22/09/2026 16:36
+f9d0bcf9-6940-427a-9c7a-57543945023b,fathers.moda,available,41.99,41.99,medium,low,7,namesilo,,,27/09/2026 09:58
 423554af-1945-4639-84a4-c5ef00ffbfe9,bivouac.moda,available,19.99,52.99,medium,low,7,name.com,,,11/08/2026 15:54
 5fa72b02-d5e3-433b-a96f-18369d5aa4cb,blindfold.moda,available,19.99,52.99,high,low,9,name.com,,,10/08/2026 14:26
+d28d61e8-84e0-431e-8d29-fa080a235d69,fitzpatrick.moda,available,43.98,45.98,medium,low,11,namecheap,,,27/09/2026 07:56
 6b8adcee-5176-4341-997e-2507879cf5ce,stricken.moda,available,19.99,52.99,high,low,8,name.com,,,
 886c5129-3dc4-4634-85cd-9b26e6f05b92,requisite.moda,available,19.99,52.99,high,low,9,name.com,,,17/08/2026 13:21
 77eba92a-4b5a-4155-97f7-3587503b3f9b,manned.moda,available,19.99,52.99,high,low,6,name.com,,,24/08/2026 15:16
@@ -452,6 +461,7 @@ eeb56164-0565-4d1a-9c9d-373d1756a9d9,fungal.moda,available,19.99,52.99,medium,lo
 1f0b2131-8f31-4539-878b-25b64e977b11,curb.moda,available,41.99,41.99,high,low,4,namesilo,,,18/09/2026 20:45
 86ffe9e1-ae8e-4ce5-bc21-639d1aab1c16,cerium.moda,available,41.99,41.99,high,low,6,namesilo,,,14/09/2026 06:07
 614cde17-e266-4fe3-be88-bf61b096cce5,phrenetic.moda,available,19.99,52.99,medium,low,9,name.com,,,18/08/2026 14:19
+2a0d8797-f1e3-405c-ae73-e2a6e534f99e,emigrants.moda,available,32.2,32.2,medium,low,9,cloudflare,,,27/09/2026 11:26
 f68935b7-a4c4-4260-b65b-d0572a50d2c8,probative.moda,available,41.99,41.99,medium,low,9,namesilo,,,09/09/2026 02:27
 300ddf16-33aa-4858-870b-6fe1ab4c33ad,remarkably.moda,available,41.99,41.99,high,low,10,namesilo,,,15/09/2026 23:06
 e9ba5bf5-198f-4558-8f94-7f124498c59e,widgeon.moda,available,41.99,41.99,medium,low,7,namesilo,,,19/09/2026 02:58
@@ -501,7 +511,7 @@ be1007bd-46cc-4777-b398-4fdd8090b729,aedes.moda,available,41.99,41.99,medium,low
 b495aa93-c67c-4ac7-a1f5-6b48b2efc0d8,sibylline.moda,available,19.99,52.99,medium,low,9,name.com,,,11/08/2026 12:20
 42e229ff-c075-4032-9a3b-415eb9f0072e,albumin.moda,available,41.99,41.99,high,low,7,namesilo,,,18/09/2026 03:26
 57a70f07-3e44-47a6-9dfc-78fe081fc996,africa.moda,premium,854,854,high,medium,6,namesilo,,,17/09/2026 15:15
-eda58bda-de3b-4361-b180-b4120e7ce11e,award.moda,available,19.99,,high,low,5,name.com,,,
+eda58bda-de3b-4361-b180-b4120e7ce11e,award.moda,available,41.99,41.99,high,low,5,namesilo,,,27/09/2026 06:31
 13b0e16f-3b55-4f62-aef2-24e5c3ce3a19,failing.moda,available,19.99,52.99,medium,low,7,name.com,,,17/08/2026 20:44
 842f197b-d6e9-4553-9e24-9dddac315b33,aid.moda,available,19.99,,high,low,3,name.com,,,
 d457f7a2-64f1-49be-bfcd-9d1d4136b086,lawrence.moda,available,43.98,45.98,high,low,8,namecheap,,,25/09/2026 04:32
@@ -569,7 +579,7 @@ ba3e8b25-31fb-4c8d-9ff8-807e8d911cff,monkshood.moda,available,43.98,45.98,medium
 98c2d63c-c5d8-4269-9bea-6d6d2454396f,snidely.moda,available,41.99,41.99,low,low,7,namesilo,,,16/09/2026 03:18
 3fc89f5b-634f-400a-8dd4-26a2b6ebb9d9,persuasive.moda,available,43.98,45.98,high,low,10,namecheap,,,08/09/2026 18:05
 6a8cc8d7-cf07-4374-9f2f-1ff17608d9c8,ounces.moda,available,41.99,41.99,medium,low,6,namesilo,,,16/09/2026 11:16
-0ef27b43-5f73-4cd5-80db-28e44f67edfd,quickly.moda,available,19.99,,high,low,7,name.com,,,
+0ef27b43-5f73-4cd5-80db-28e44f67edfd,quickly.moda,available,41.99,41.99,high,low,7,namesilo,,,27/09/2026 09:22
 8a078bf0-7512-4816-b83e-407531a1d4fd,lenticular.moda,available,19.99,52.99,high,low,10,name.com,,,09/08/2026 19:26
 8d5be9bb-def9-4705-8dab-ad032c5ab607,ideally.moda,available,19.99,,high,low,7,name.com,,,
 e6659450-e9a3-4bd0-a837-1a6ae901e419,unequalled.moda,available,41.99,41.99,high,low,10,namesilo,,,12/09/2026 09:11
@@ -597,7 +607,7 @@ ee69e131-1602-4c4d-9a4e-85742f4ca2fb,whether.moda,available,19.99,,high,low,7,na
 56d3694c-2cb4-4a15-8b38-14c28bc87785,under.moda,available,19.99,,high,low,5,name.com,,,
 22d39e62-c9a1-4c4f-9a85-e4b4f6c00de5,garbanzo.moda,available,41.99,41.99,high,low,8,namesilo,,,24/09/2026 14:31
 4492e830-2f60-4a1a-9218-af3e81fed17e,contralto.moda,available,19.99,52.99,medium,low,9,name.com,,,
-56bac267-290d-4b19-bcf9-44999f69ae17,airport.moda,available,19.99,,high,low,7,name.com,,,
+56bac267-290d-4b19-bcf9-44999f69ae17,airport.moda,available,41.99,41.99,high,low,7,namesilo,,,27/09/2026 02:07
 d63f75b3-3876-4af4-990c-b00ec50a95e6,anatidae.moda,available,19.99,52.99,medium,low,8,name.com,,,19/09/2026 03:26
 09a6eb00-78bd-4910-b953-6c1922d5a7ad,barbarossa.moda,available,43.98,45.98,high,low,10,namecheap,,,22/09/2026 04:31
 b93e3eb9-5252-4174-ac4e-bcda0695ef45,exulting.moda,available,19.99,52.99,high,low,8,name.com,,,17/08/2026 19:44
@@ -639,6 +649,7 @@ b76692dc-3f32-4116-b1e4-f56585ed53f1,bail.moda,available,43.98,45.98,high,low,4,
 624c68c4-c85a-4b8d-a859-370d79a5e873,outright.moda,available,41.99,41.99,high,low,8,namesilo,,,04/09/2026 19:35
 8f4301c2-c2b0-4f20-a8a7-7ab29534d408,zestful.moda,available,19.99,52.99,high,low,7,name.com,,,08/08/2026 19:51
 71296a94-a3d7-4499-8520-8d97e14485a5,alarmingly.moda,available,41.99,41.99,low,low,10,namesilo,,,13/09/2026 18:33
+ddc650f4-e479-4af5-9d28-0d4d14ad25fb,maj.moda,available,41.99,41.99,high,low,3,namesilo,,,27/09/2026 02:37
 6dd3df91-cc40-487b-80e9-96d554900e00,downwind.moda,available,19.99,52.99,medium,low,8,name.com,,,14/08/2026 18:03
 baefce9d-4f76-4e19-9397-cf76dc71c649,amusive.moda,available,19.99,52.99,medium,low,7,name.com,,,
 afa5585b-1317-45dc-8a6e-fbcf478c6d79,acrosome.moda,available,41.99,41.99,medium,low,8,namesilo,,,17/09/2026 03:58
@@ -684,7 +695,7 @@ dc8461b3-abc7-40d9-99a0-f330e8b88fc3,attraction.moda,available,19.99,,high,low,1
 0852b023-8593-4c73-98d3-3c4f6c68ca08,appropriately.moda,available,19.99,,medium,low,13,name.com,,,
 c9c74151-b11b-4c0a-8b1c-a0a83786b72b,ebook.moda,available,19.99,,high,low,6,name.com,,,
 437e3a03-4cca-4289-b812-c0d04324b369,nutritious.moda,available,19.99,52.99,high,low,10,name.com,,,19/09/2026 11:02
-fff79db9-3e00-4913-a4ff-1c73deceb887,waiting.moda,available,19.99,,high,low,7,name.com,,,
+fff79db9-3e00-4913-a4ff-1c73deceb887,waiting.moda,available,43.98,45.98,high,low,7,namecheap,,,27/09/2026 10:28
 d7c73fcd-d8dc-4916-a705-e5942601e757,previously.moda,available,19.99,,high,low,10,name.com,,,
 32eb5846-1e48-44f4-b6de-763bc9046731,thrice.moda,available,41.99,41.99,medium,low,6,namesilo,,,16/09/2026 08:59
 fe242418-fe2d-41b6-9c1a-b7abe69e5300,statuary.moda,available,43.98,45.98,medium,low,8,namecheap,,,10/09/2026 19:16
@@ -755,6 +766,7 @@ cb3d088b-3ffa-4975-be2d-10ecf307397a,unflavored.moda,available,43.98,45.98,mediu
 5a6cc947-de3b-4e8c-8d3a-39fc05a81f73,biaxal.moda,available,19.99,52.99,medium,low,6,name.com,,,09/08/2026 18:46
 b8987eb9-08d8-4ac7-879c-081ddd81731f,songster.moda,available,41.99,41.99,high,low,8,namesilo,,,21/09/2026 22:38
 4ccd6960-cb7f-46ea-98a4-d629ce8fa9fe,fugitive.moda,available,19.99,52.99,high,low,8,name.com,,,18/08/2026 07:53
+6168e3b6-09f2-4141-ae9e-474a8712d0ee,rolls.moda,available,41.99,41.99,high,low,5,namesilo,,,27/09/2026 07:45
 96a34bad-68ee-42f9-a4dd-698e1e966893,joke.moda,available,43.98,45.98,high,low,4,namecheap,,,22/09/2026 06:20
 e3cbd36f-9ef2-4ff2-a505-eed07435b212,literal.moda,available,41.99,41.99,high,low,7,namesilo,,,25/09/2026 13:58
 c6e948a5-52ef-4bba-a807-4c70526f5693,cadillac.moda,available,19.99,,high,low,8,name.com,,,
@@ -808,6 +820,7 @@ fd029612-a846-4c43-9031-e80b348bbf03,poems.moda,available,43.98,45.98,medium,low
 31cbe041-8db2-46db-92e0-9723e6dfdb2d,deciding.moda,available,19.99,52.99,high,low,8,name.com,,,13/08/2026 21:23
 b4c91945-f210-4b36-a255-dce32b25deca,upstair.moda,available,41.99,41.99,medium,low,7,namesilo,,,12/09/2026 23:20
 7846b1ca-7ac2-4886-82cf-d37cdc1e91b1,offshore.moda,available,41.99,41.99,high,low,8,namesilo,,,04/09/2026 01:37
+73a335ed-ae03-4e93-85f7-f7a99000afd1,embarrassed.moda,available,43.98,45.98,medium,low,11,namecheap,,,27/09/2026 06:32
 b915caaf-7966-4a9e-a2cd-f0a91e18dcad,aide.moda,available,41.99,41.99,high,low,4,namesilo,,,22/09/2026 14:20
 22f3f11e-0f64-4250-bcd2-132fd8b72ee3,skint.moda,available,19.99,52.99,medium,low,5,name.com,,,11/08/2026 05:21
 5b31e838-cf26-4999-8c70-cdc1e8414d62,moravian.moda,available,19.99,52.99,high,low,8,name.com,,,25/08/2026 06:14
@@ -853,7 +866,7 @@ bbb45a71-7c43-4435-a691-bf37deff1c62,cheater.moda,available,43.98,45.98,medium,l
 cc48207c-3824-48e7-a758-2059d02c3e66,entrenched.moda,available,41.99,41.99,medium,low,10,namesilo,,,24/09/2026 14:13
 7f3ca5e6-dd99-418f-acd0-243f93b3a829,fresher.moda,available,19.99,52.99,high,low,7,name.com,,,18/08/2026 15:22
 b5b0236e-5f8a-49ce-aed7-33294e9a2943,subnormal.moda,available,41.99,41.99,medium,low,9,namesilo,,,11/09/2026 00:28
-cb970df0-e13d-42c5-87b1-00ec29b52185,played.moda,available,19.99,,high,low,6,name.com,,,
+cb970df0-e13d-42c5-87b1-00ec29b52185,played.moda,available,41.99,41.99,high,low,6,namesilo,,,27/09/2026 04:03
 b0f07a3c-6f2e-4371-ba82-eef6c693fdc2,suits.moda,premium,118.8,118.8,high,low,5,namesilo,,,18/09/2026 12:41
 2a7d8810-2e3f-47df-8799-a71078377b19,slipping.moda,available,41.99,41.99,high,low,8,namesilo,,,10/09/2026 11:05
 52796fd7-446a-4767-b5b9-723e4f97a566,soothing.moda,available,19.99,52.99,high,low,8,name.com,,,07/08/2026 07:40
@@ -913,6 +926,7 @@ a46c1467-7d73-4fa8-b206-99fbeee49370,tools.moda,available,41.99,41.99,high,mediu
 7c914232-0626-48c3-8ed4-492f08bd52ff,tzarist.moda,available,19.99,52.99,medium,low,7,name.com,,,13/08/2026 14:59
 cec465d6-cc27-4e54-965e-803c6452d2ee,hirsute.moda,available,19.99,52.99,medium,low,7,name.com,,,20/08/2026 22:11
 72c67032-9ae7-48fc-81cf-27b2627b8a7e,catharsis.moda,available,43.98,45.98,high,low,9,namecheap,,,16/09/2026 17:03
+71da47e5-1177-4e91-a911-3e141499bef8,prosecutor.moda,available,41.99,41.99,high,low,10,namesilo,,,27/09/2026 05:05
 29c18357-7c1d-4b1b-82fe-8a9a65fcdb68,unity.moda,available,41.99,41.99,high,medium,5,namesilo,,,21/09/2026 10:47
 4319599b-5d7e-481e-86fb-6b3352014e96,ugh.moda,available,19.99,,medium,low,3,name.com,,,
 8ebf4837-39b9-4ef0-a308-1bfbc16db761,board.moda,available,19.99,,high,low,5,name.com,,,
@@ -985,17 +999,3 @@ da0babf5-bf56-4393-8d48-09375d742d43,min.moda,available,19.99,52.99,high,low,3,n
 80dac014-6e74-417f-89cd-4facfdfcc14a,hannukah.moda,available,19.99,,medium,low,8,name.com,,,
 741f2504-e4f1-45d2-b251-e475c468c8b8,unchanged.moda,available,19.99,52.99,high,low,9,name.com,,,12/09/2026 00:32
 a97bc111-92bb-488f-99cc-940553c52ac7,lineup.moda,available,41.99,41.99,high,low,6,namesilo,,,22/09/2026 14:38
-971626dd-5a13-44ed-9644-7939e015ef32,worshipful.moda,available,19.99,52.99,high,low,10,name.com,,,
-260c1071-3ce4-4fa1-a72f-72482b6a18ec,quickset.moda,available,43.98,45.98,medium,low,8,namecheap,,,09/09/2026 08:43
-971032f1-8f3a-4d31-8147-a15127911d74,decisively.moda,available,41.99,41.99,high,low,10,namesilo,,,14/09/2026 11:10
-ab723c7d-0332-4e27-b97e-8e827dafd339,jointly.moda,available,19.99,,high,low,7,name.com,,,
-4d01364d-50d9-43be-82d1-62cab3b24742,nutty.moda,available,19.99,52.99,high,low,5,name.com,,,06/08/2026 21:27
-cee05291-11cc-44eb-985a-00b391a838f5,might.moda,available,19.99,,high,low,5,name.com,,,
-0963ecc8-44e5-40e8-8947-7caca497a514,confide.moda,available,19.99,,high,low,7,name.com,,,
-c2a52367-2058-4c4f-ad27-4caef6e69cc2,eating.moda,available,41.99,41.99,high,low,6,namesilo,,,08/09/2026 13:35
-1bb4c80e-5a86-448c-9f4c-be2585ac75c2,compliment.moda,available,43.98,45.98,high,low,10,namecheap,,,24/09/2026 16:50
-391f8108-39c2-49dd-95e4-d15fae74e573,townsend.moda,available,43.98,45.98,high,low,8,namecheap,,,25/09/2026 06:09
-9f519248-0e63-4596-a363-0978ea5566a6,arenga.moda,available,43.98,45.98,medium,low,6,namecheap,,,20/09/2026 03:43
-7ddb66b4-a051-4724-9e72-f1597ac1c12e,elevator.moda,available,41.99,41.99,high,low,8,namesilo,,,25/09/2026 05:22
-e95c38a4-8aba-4404-a0a2-51a4b566ef75,aqueous.moda,available,19.99,52.99,medium,low,7,name.com,,,06/08/2026 10:50
-5b755f71-561f-4c2b-8139-984d006d44a0,conserved.moda,available,19.99,52.99,high,low,9,name.com,,,12/08/2026 22:38
