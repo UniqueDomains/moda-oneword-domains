@@ -1,10 +1,10 @@
-# Available .MODA One-Word Domains (33,246)
+# Available .MODA One-Word Domains (35,628)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-33%2C246%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-35%2C628%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .moda one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **33,246 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **35,628 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 33,246 domains · **Median ask:** $38.57 · **High-demand under $2,500:** 5
+**Public extract:** 1,000 rows · **Live catalog:** 35,628 domains · **Median ask:** $38.44 · **High-demand under $2,500:** 5
 
-**Last updated:** 2026-10-02
+**Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/tld/moda`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar  |
-| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------- |
-| aas.moda   | available | $43.98    | $45.98        | high           | low    | 3      | namecheap  |
-| gay.moda   | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo   |
-| abe.moda   | available | $41.99    | $41.99        | high           | low    | 3      | namesilo   |
-| red.moda   | premium   | $1,040    | $1,040        | high           | medium | 3      | namecheap  |
-| ade.moda   | available | $41.99    | $41.99        | high           | low    | 3      | namesilo   |
-| cafe.moda  | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo   |
-| aid.moda   | available | $41.99    | $41.99        | high           | low    | 3      | namesilo   |
-| nude.moda  | premium   | $854      | $854          | high           | low    | 4      | namesilo   |
-| ccd.moda   | available | $32.20    | $32.20        | high           | low    | 3      | cloudflare |
-| ties.moda  | premium   | $128.70   | $128.70       | high           | low    | 4      | namecheap  |
-| cho.moda   | available | $41.99    | $41.99        | medium         | low    | 3      | namesilo   |
-| ebony.moda | premium   | $118.80   | $118.80       | high           | low    | 5      | namesilo   |
-| chs.moda   | available | $32.20    | $32.20        | high           | low    | 3      | cloudflare |
-| latin.moda | premium   | $118.80   | $118.80       | high           | low    | 5      | namesilo   |
-| coy.moda   | available | $41.99    | $41.99        | high           | low    | 3      | namesilo   |
-| milan.moda | premium   | $854      | $854          | high           | low    | 5      | namesilo   |
-| doj.moda   | available | $33.32    | $33.32        | medium         | low    | 3      | spaceship  |
-| teens.moda | premium   | $102.67   | $102.67       | high           | low    | 5      | spaceship  |
-| drc.moda   | available | $41.99    | $41.99        | high           | low    | 3      | namesilo   |
-| women.moda | premium   | $118.80   | $118.80       | high           | low    | 5      | namesilo   |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar  |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------- |
+| aas.moda    | available | $43.98    | $45.98        | high           | low    | 3      | namecheap  |
+| gay.moda    | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo   |
+| abe.moda    | available | $41.99    | $41.99        | high           | low    | 3      | namesilo   |
+| red.moda    | premium   | $1,040    | $1,040        | high           | medium | 3      | namecheap  |
+| ade.moda    | available | $41.99    | $41.99        | high           | low    | 3      | namesilo   |
+| cafe.moda   | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo   |
+| aid.moda    | available | $41.99    | $41.99        | high           | low    | 3      | namesilo   |
+| nude.moda   | premium   | $854      | $854          | high           | low    | 4      | namesilo   |
+| bil.moda    | available | $33.32    | $33.32        | high           | low    | 3      | spaceship  |
+| ties.moda   | premium   | $128.70   | $128.70       | high           | low    | 4      | namecheap  |
+| ccd.moda    | available | $32.20    | $32.20        | high           | low    | 3      | cloudflare |
+| ebony.moda  | premium   | $118.80   | $118.80       | high           | low    | 5      | namesilo   |
+| cho.moda    | available | $41.99    | $41.99        | medium         | low    | 3      | namesilo   |
+| latin.moda  | premium   | $118.80   | $118.80       | high           | low    | 5      | namesilo   |
+| chs.moda    | available | $32.20    | $32.20        | high           | low    | 3      | cloudflare |
+| teens.moda  | premium   | $102.67   | $102.67       | high           | low    | 5      | spaceship  |
+| coy.moda    | available | $41.99    | $41.99        | high           | low    | 3      | namesilo   |
+| women.moda  | premium   | $118.80   | $118.80       | high           | low    | 5      | namesilo   |
+| cyr.moda    | available | $41.99    | $41.99        | medium         | low    | 3      | namesilo   |
+| addict.moda | premium   | $118.80   | $118.80       | high           | low    | 6      | namesilo   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 33,246 live domains                        |
+| 1,000-row public sample | 35,628 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 5 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MODA One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MODA One-Word Domains*. Version 2026-10-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
